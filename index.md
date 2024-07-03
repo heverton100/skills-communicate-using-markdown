@@ -5,3 +5,7 @@
 ``` php
 echo "Dale Tricolor";
 ```
+
+- [x] Founded on December 19, 1989
+- [x] 9 Main titles
+- [x] Jackdaw Blue
